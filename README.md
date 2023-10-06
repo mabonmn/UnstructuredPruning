@@ -1,6 +1,13 @@
+# NOTE:
+THIS WORK IS PUBLISHED WORK. FOLLOWING WAS DEVELOPED MY MABON NINAN. 
+## Reference
+When reporting results that use the dataset or code in this repository, please cite the paper below:
+
+Haipeng Li, Mabon Ninan, Boyang Wang, John M Emmert, “TinyPower: Deep-Learning Side-Channel Attacks with Tiny Neural Networks”, In Proceedings of the IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2024 
+
 # UnstructuredPruning
 UnstructuredPruning
-
+ 
 Unstructured pruning is also called magnitude pruning. Unstructured pruning converts some of the parameters or weights with smaller magnitude into zeros.
 
 Dense: lots of non-zero values
